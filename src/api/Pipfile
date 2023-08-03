@@ -10,7 +10,7 @@ flask-bcrypt = "*"
 werkzeug = "==2.2.3"
 flask_sqlalchemy = "*"
 flask_jwt_extended = "*"
-importlib_metadata = "*"
+importlib_metadata = "==6.7.0"
 
 [dev-packages]
 
