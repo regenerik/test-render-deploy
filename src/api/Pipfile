@@ -7,6 +7,7 @@ name = "pypi"
 flask = "==2.2.5"
 flask-cors = "*"
 flask-bcrypt = "*"
+werkzeug = "*"
 
 [dev-packages]
 
