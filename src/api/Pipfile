@@ -11,6 +11,7 @@ werkzeug = "==2.2.3"
 flask_sqlalchemy = "*"
 flask_jwt_extended = "*"
 importlib_metadata = "==6.7.0"
+zipp = "*"
 
 [dev-packages]
 
